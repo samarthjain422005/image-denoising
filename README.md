@@ -1,6 +1,6 @@
 ---
 
-# Image Denoising using Multi-level Wavelet-CNN (MWCNN)
+# Image Denoising
 
 ## Overview
 
@@ -17,7 +17,7 @@ The MWCNN architecture consists of multiple convolutional blocks interspersed wi
 
 ## Performance
 
-The model achieved a mean Peak Signal-to-Noise Ratio (PSNR) of 30.45 dB on the test dataset, indicating high image quality restoration.
+The model achieved a mean Peak Signal-to-Noise Ratio (PSNR) of 21.3 dB on the test dataset, indicating high image quality restoration.
 
 ## Usage
 
@@ -25,8 +25,8 @@ The model achieved a mean Peak Signal-to-Noise Ratio (PSNR) of 30.45 dB on the t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-denoising-mwcnn.git
-   cd image-denoising-mwcnn
+   git clone https://github.com/samarthjain422005/image-denoising.git
+   cd image-denoising
    ```
 
 2. Install dependencies:
